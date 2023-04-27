@@ -1,1 +1,3 @@
-# DataAnalysisAlgorithms
+# Библиотеки Python для Data Science: продолжение
+
+Курсовой проект по курсу "Библиотеки Python для Data Science: продолжение" добавлен (2 файла)
